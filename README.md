@@ -1,3 +1,3 @@
 # Wild oasis
 
-one of the big projects in the react course. built with react and supabase for the database
+one of my biggest projects built with react and supabase for the database
